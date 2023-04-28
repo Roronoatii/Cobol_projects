@@ -1,0 +1,19 @@
+      *Title
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. file_name.
+       AUTHOR. Author.
+       DATE-WRITTEN.Date
+       ENVIRONMENT DIVISION.
+       CONFIGURATION SECTION.
+       SPECIAL-NAMES.
+       DATA DIVISION.
+       FILE SECTION.
+       WORKING-STORAGE SECTION.
+
+
+       PROCEDURE DIVISION. 
+
+
+
+       STOP RUN.
+       
